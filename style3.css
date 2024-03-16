@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(255, 162, 0);
+}
+
+p{
+    font-size: 40px;
+    text-shadow: 1px 1px 3px rgb(41, 41, 41);
+}
+a{
+    font-size: 40px;
+    text-shadow: 1px 1px 3px rgb(41, 41, 41);
+    text-decoration: none;
+}
